@@ -1,2 +1,11 @@
-# Python-Developer-2022_Zero-to-Mastery
-Notes and scripts for Complete Python Developer in 2022 course by Andrei Neagoie on Zero to Mastery
+# Complete Python Developer in 2022: Zero to Mastery
+Zero to Mastery - Python Developer by Andrei Neagoie
+
+Udemy: [Python Developer](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/)
+
+## Summary
+
+This repository has all the code and notes I prepared when completing this course.
+
+A python cheatsheet is available at:
+* [Python Cheat Sheet 💻🐍](https://zerotomastery.io/cheatsheets/python-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
